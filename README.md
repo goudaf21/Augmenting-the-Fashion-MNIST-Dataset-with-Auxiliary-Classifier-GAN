@@ -1,4 +1,3 @@
-# 315project
 
 The research paper can be found in *FinalReport.pdf*. Files used to build the LaTex report can be found in *Latex Report Files*
 
